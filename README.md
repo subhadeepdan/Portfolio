@@ -2,4 +2,4 @@
 
 Basic Portfolio Website built using HTML5 and CSS3.
 
-Checkout the website [here] (https://subhadeepdan.github.io/Portfolio/).
+Checkout the website [here](https://subhadeepdan.github.io/Portfolio/).
